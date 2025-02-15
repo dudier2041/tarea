@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>para el profe</title>
+</head>
+<body>
+<br><br>
+<div align="center">
+<img src="imagenes/WhatsApp Image 2025-02-15 at 10.24.39 AM.jpeg" alt="esos eramos nosotros" height=200 width="200">
+</div>
+<hr size="25" noshade><br>
+<i>Hoja de vida</i><br>
+Cuando estaba con ellos<br>
+<hr size="25" noshade><br>
+<b>nombre</b><br>
+<u>Edgar Arana</u>
+</i><br>
+<hr size="25" noshade><br>
+</body>
+</html>
